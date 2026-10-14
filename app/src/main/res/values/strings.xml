@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">短信净化</string>
+    <string name="module_description">移除 ColorOS 短信底部输入框菜单与消息卡片营销按钮</string>
+</resources>
